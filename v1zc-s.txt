@@ -1,4 +1,5 @@
 
+
 UTV-676	Cosmic Anomaly	Combat Site	Drone Horde	100.0%	18.52 AU
 DWT-807	Cosmic Anomaly	Ore Site	Enormous Asteroid Cluster 	100.0%	0.95 AU
 XFK-833	Cosmic Anomaly	Ore Site	Large Asteroid Cluster	100.0%	5.83 AU
