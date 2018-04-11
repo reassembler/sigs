@@ -1,0 +1,45 @@
+XPR-814	Cosmic Anomaly	Ore Site	Colossal Asteroid Cluster	100.0%	25.17 AU
+UTV-676	Cosmic Anomaly	Combat Site	Drone Horde	100.0%	7.80 AU
+JPW-746	Cosmic Anomaly	Ore Site	Enormous Asteroid Cluster 	100.0%	21.37 AU
+XFK-833	Cosmic Anomaly	Ore Site	Large Asteroid Cluster	100.0%	25.43 AU
+XBZ-081	Cosmic Anomaly	Ore Site	Medium Asteroid Cluster	100.0%	6.61 AU
+AUK-016	Cosmic Signature	Relic Site	Ruined Sansha Crystal Quarry	100.0%	21.24 AU
+MOA-432	Cosmic Anomaly	Combat Site	Sansha Forlorn Den	100.0%	21.74 AU
+QIR-380	Cosmic Anomaly	Combat Site	Sansha Forlorn Hub	100.0%	25.14 AU
+HIS-540	Cosmic Anomaly	Combat Site	Sansha Forlorn Hub	100.0%	26.41 AU
+BHN-527	Cosmic Anomaly	Combat Site	Sansha Forlorn Hub	100.0%	22.76 AU
+EIO-052	Cosmic Anomaly	Combat Site	Sansha Forlorn Rally Point	100.0%	5.90 AU
+SNZ-152	Cosmic Anomaly	Combat Site	Sansha Forlorn Rally Point	100.0%	5.59 AU
+THB-270	Cosmic Anomaly	Combat Site	Sansha Forlorn Rally Point	100.0%	23.15 AU
+KKQ-712	Cosmic Anomaly	Combat Site	Sansha Forlorn Rally Point	100.0%	23.72 AU
+IAA-440	Cosmic Anomaly	Combat Site	Sansha Forsaken Den	100.0%	20.25 AU
+XHM-138	Cosmic Anomaly	Combat Site	Sansha Forsaken Hub	100.0%	27.67 AU
+MFC-310	Cosmic Anomaly	Combat Site	Sansha Forsaken Hub	100.0%	26.09 AU
+VBR-977	Cosmic Anomaly	Combat Site	Sansha Forsaken Rally Point	100.0%	20.10 AU
+WQW-186	Cosmic Anomaly	Combat Site	Sansha Forsaken Rally Point	100.0%	6.48 AU
+AJX-080	Cosmic Anomaly	Combat Site	Sansha Forsaken Rally Point	100.0%	6.17 AU
+DWE-330	Cosmic Anomaly	Combat Site	Sansha Forsaken Rally Point	100.0%	24.63 AU
+CRX-240	Cosmic Anomaly	Combat Site	Sansha Forsaken Rally Point	100.0%	24.39 AU
+RWH-177	Cosmic Anomaly	Combat Site	Sansha Haven	100.0%	20.38 AU
+WMD-408	Cosmic Anomaly	Combat Site	Sansha Haven	100.0%	25.21 AU
+QKR-408	Cosmic Anomaly	Combat Site	Sansha Haven	100.0%	20.93 AU
+YYE-920	Cosmic Anomaly	Combat Site	Sansha Hidden Den	100.0%	5.83 AU
+KGJ-496	Cosmic Anomaly	Combat Site	Sansha Hidden Den	100.0%	23.65 AU
+AMJ-112	Cosmic Anomaly	Combat Site	Sansha Hidden Hub	100.0%	21.90 AU
+FTG-150	Cosmic Anomaly	Combat Site	Sansha Hidden Rally Point	100.0%	23.29 AU
+SOB-350	Cosmic Anomaly	Combat Site	Sansha Hidden Rally Point	100.0%	20.57 AU
+WPP-368	Cosmic Anomaly	Combat Site	Sansha Hub	100.0%	6.94 AU
+JFY-403	Cosmic Anomaly	Combat Site	Sansha Hub	100.0%	7.75 AU
+RCM-490	Cosmic Anomaly	Combat Site	Sansha Hub	100.0%	4.82 AU
+MFJ-756	Cosmic Anomaly	Combat Site	Sansha Hub	100.0%	5.85 AU
+XPW-656	Cosmic Anomaly	Combat Site	Sansha Hub	100.0%	5.93 AU
+OFK-912	Cosmic Anomaly	Combat Site	Sansha Port	100.0%	24.97 AU
+LYN-468	Cosmic Anomaly	Combat Site	Sansha Port	100.0%	23.63 AU
+VKW-730	Cosmic Anomaly	Combat Site	Sansha Port	100.0%	20.94 AU
+DTF-920	Cosmic Anomaly	Combat Site	Sansha Port	100.0%	6.02 AU
+QFQ-868	Cosmic Anomaly	Combat Site	Sansha Rally Point	100.0%	4.72 AU
+SCN-878	Cosmic Anomaly	Combat Site	Sansha Rally Point	100.0%	21.46 AU
+FDE-103	Cosmic Anomaly	Combat Site	Sansha Sanctum	100.0%	8.29 AU
+XTH-785	Cosmic Anomaly	Combat Site	Sansha's Rally Point	100.0%	25.33 AU
+HWD-233	Cosmic Anomaly	Combat Site	Sansha's Rally Point	100.0%	5.76 AU
+AYG-464	Cosmic Anomaly	Ore Site	Small Asteroid Cluster	100.0%	18.09 AU
