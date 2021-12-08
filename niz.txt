@@ -6,6 +6,8 @@ HJK-712	Cosmic Anomaly	Combat Site	Sansha Forlorn Hub	100.0%	5.79 AU
 KTQ-800	Cosmic Anomaly	Combat Site	Sansha Forlorn Rally Point	100.0%	6.49 AU
 WWP-102	Cosmic Anomaly	Combat Site	Sansha Forlorn Rally Point	100.0%	5.90 AU
 WQX-776	Cosmic Anomaly	Combat Site	Sansha Forlorn Rally Point	100.0%	3.53 AU
+
+WKLE
 EWU-840	Cosmic Anomaly	Combat Site	Sansha Forlorn Rally Point	100.0%	4.89 AU
 UBZ-682	Cosmic Anomaly	Combat Site	Sansha Forsaken Den	100.0%	6.48 AU
 WDG-816	Cosmic Anomaly	Combat Site	Sansha Forsaken Hub	100.0%	6.39 AU
